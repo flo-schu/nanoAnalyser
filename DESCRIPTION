@@ -1,0 +1,11 @@
+Package: nanoAnalyser
+Type: Package
+Title: Analyse data output from kaananoij
+Version: 0.1.0
+Author: Florian Schunck
+Maintainer: Florian Schunck <fluncki@protonmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GNU General Public License (GPL) v3
+Encoding: UTF-8
+LazyData: true
